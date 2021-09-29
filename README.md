@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 
 -->
 - curious
+- focused
 - i build things
 - unconventional 
 
