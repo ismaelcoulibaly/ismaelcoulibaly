@@ -9,8 +9,6 @@ Here are some ideas to get you started:
 - curious
 - focused
 - i build things
-- unconventional 
-- don't work, design work
 
 [![Twitter Badge](https://img.shields.io/badge/-@ismcou-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ismcou)](https://twitter.com/ismcou)
 [![Gmail Badge](https://img.shields.io/badge/-ismael.coulibaly-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ismael.coulibaly99@gmail.com)](mailto:ismael.coulibaly99@gmail.com)
