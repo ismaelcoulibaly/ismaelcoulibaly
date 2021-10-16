@@ -11,3 +11,4 @@ Here are some ideas to get you started:
 - i build things (android apps, web apps)
 
 [![Twitter Badge](https://img.shields.io/badge/-@coulibalism-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/coulibalism)](https://twitter.com/coulibalism)
+[![Gmail Badge](https://img.shields.io/badge/-ismael.coulibaly-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ismael.coulibaly99@gmail.com)](mailto:ismael.coulibaly99@gmail.com)
