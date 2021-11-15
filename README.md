@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 - curious
 - focused
-- i build things (android apps, web apps)
+- i build things (android + iOS apps, web apps)
 
 
 [![Gmail Badge](https://img.shields.io/badge/-ismael.coulibaly-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ismael.coulibaly99@gmail.com)](mailto:ismael.coulibaly99@gmail.com)
