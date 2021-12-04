@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 - curious
 - focused
 - i build things (android + iOS apps, websites)
+- books i read https://www.goodreads.com/review/list/134767841-isma-l-coulibaly?order=a&shelf=to-read&sort=position
 
 
 [![Gmail Badge](https://img.shields.io/badge/-ismael.coulibaly-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ismael.coulibaly99@gmail.com)](mailto:ismael.coulibaly99@gmail.com)
