@@ -1,4 +1,4 @@
-### hi there, i'm ismaël coulibaly
+### hi there, i'm Ismaël Coulibaly
 
 <!--
 **ismaelcoulibaly/ismaelcoulibaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
