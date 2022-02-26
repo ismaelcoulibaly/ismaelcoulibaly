@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 
 -->
- I’m currently working on Swift, Kotlin and React🛠
-- 🌱 I’m currently learning ...
+ 
+- 🌱 I’m currently working on Swift, Kotlin and React🛠
 - 🔎 curious
 - 💫 focused
 - 🛠 Software developer 🌍 | i make a lot of things (websites, apps, software stuff)
