@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-- 🔎 curious | 💫 focused 
-- 🛠 Software developer 🌍 💻 
+- 🔎 curious | 💫 focused  
+- mobile and web developer 👨🏿‍💻 | entering the web3 and blockchain space  ⬛️ 🔗
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 - My stack :
 
